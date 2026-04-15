@@ -15,7 +15,7 @@ import { FIRM, PARTNERS } from "@/lib/data";
 export const metadata: Metadata = {
   title: "Our Partners",
   description:
-    "Meet the four Chartered Accountant partners of Sourabh Sharma & Company — CA Sourabh Sharma, CA Saurabh Jindal, CA Mohit Sharma, and CA S. Patodia. Expert CA firm in Jaipur.",
+    "Meet the four Chartered Accountant partners of Sourabh Sharma & Company — CA Sourabh Sharma, CA Saurabh Jindal, CA Mohit Sharma, and CA Shailesh Patodia. Expert CA firm in Jaipur.",
 };
 
 export default function TeamPage() {

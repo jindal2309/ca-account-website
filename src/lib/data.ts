@@ -162,7 +162,7 @@ export const PARTNERS = [
     slug: "sourabh-sharma",
     name: "CA Sourabh Sharma",
     initials: "SS",
-    title: "Founding Partner",
+    title: "Partner",
     designation: "Chartered Accountant",
     location: "Jaipur, Rajasthan",
     linkedin: "",
@@ -304,8 +304,8 @@ export const PARTNERS = [
     ],
   },
   {
-    slug: "s-patodia",
-    name: "CA S. Patodia",
+    slug: "shailesh-patodia",
+    name: "CA Shailesh Patodia",
     initials: "SP",
     title: "Partner",
     designation: "Chartered Accountant",
@@ -313,7 +313,7 @@ export const PARTNERS = [
     linkedin: "https://www.linkedin.com/in/spatodiaca/",
     specialization: "Audit · Advisory · Business Compliance",
     bio: [
-      "CA S. Patodia is a Partner at Sourabh Sharma & Company and a practising Chartered Accountant with strong expertise in audit, business advisory, and financial compliance. Based in Jaipur, CA Patodia brings a structured and detail-oriented approach to every client engagement.",
+      "CA Shailesh Patodia is a Partner at Sourabh Sharma & Company and a practising Chartered Accountant with strong expertise in audit, business advisory, and financial compliance. Based in Jaipur, CA Patodia brings a structured and detail-oriented approach to every client engagement.",
       "With experience spanning statutory audit, tax audit, GST compliance, and business advisory services, CA Patodia works with businesses across various sectors to help them maintain robust financial records and meet their regulatory obligations efficiently.",
       "Known for thorough documentation and a methodical working style, CA Patodia adds significant depth to the firm's audit and advisory practice.",
     ],
